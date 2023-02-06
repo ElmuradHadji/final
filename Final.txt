@@ -1,0 +1,27 @@
+e-shopping:
+cargo tracking
+favorite
+order confirmed /e-receipt mail
+3 type user:custormer, seller, admin
+require admin confirm
+2 type seller:individual, corperative
+------------------------------------------------------
+Hospital:
+online appoinment
+require Dr's confirm
+5 type user: Customer, doctor, lab,resepionist,admin
+online/offline queque system for lab
+lab result mailing for both doc and customer
+profit tracking by doc,lab,admin also can get as pdf, excel
+tracking of doctors on/off work
+2 payment methdos:online/offline
+online lab result query 
+------------------------------------------------------------------------------------------------
+Cargo:
+tracking
+order for me
+online payment
+create query
+choosing branch
+4 type user: customer, turkey warehouse, branch admin, admin, kuryer
+-------------------------------------------------------------------------------------------------------
